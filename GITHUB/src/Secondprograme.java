@@ -5,7 +5,8 @@ public class Secondprograme {
 		System.out.println("now trying to speak English");
 		System.out.println("now trying to speak japanese");
 		System.out.println("now trying to speak french");
-
+		
+		System.out.println("now trying to speak spanish too");
 	}
 
 }
